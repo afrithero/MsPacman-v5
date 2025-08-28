@@ -17,7 +17,7 @@ I focus on three progressively stronger reinforcement learning algorithms:
 
 An example of trained agent gameplay is shown below:
 
-![Demo](video/demo.gif)
+![Demo](src/video/demo.gif)
 
 ## Features
 - PyTorch-based DQN, DDQN, and Dueling DQN implementations
